@@ -34,7 +34,7 @@ As someone who stalks Twitter often one of the ways I have found most effective 
 | [@da_667](https://twitter.com/da_667) | "NSM enthusiast. Amateur malware analyst. SOC analyst for a company that splunks all the things. I wrote a book once." |
 | [@malwareunicorn](https://twitter.com/malwareunicorn) | "Malware Research Unicorn @EndgameInc. Interested in Malware, Reverse Engineering, and Fashion. DEF CON. My thoughts are my own. @VanitySec Creator" |
 | [@ra6bit](https://twitter.com/ra6bit) | "Quasi-pseudonymous lagomorphic information security something or other. I make stuff, I break stuff, I defend stuff, I'm in ur DC stealin' ur admins." |
-| [@cryptoishard](https://twitter.com/cryptoishard) | "OSINT/|Android/|Hardware/|Cryptography/|Forensics/|Virtualization/|GameDev cryptographyishard(@)protonmail.ch cryptoishard(@)tuta.io ∧·∪ #YOLOSEC" |
+| [@cryptoishard](https://twitter.com/cryptoishard) | "OSINT\|Android/|Hardware/|Cryptography/|Forensics/|Virtualization/|GameDev cryptographyishard(@)protonmail.ch cryptoishard(@)tuta.io ∧·∪ #YOLOSEC" |
 
 
 ## YouTube Channels:
