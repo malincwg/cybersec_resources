@@ -4,6 +4,7 @@ A curated list of cyber security resources that I find useful and/or entertainin
 
 ## Websites:
 Websites to check out occasionally for news or tutorials. I personally have The Hacker News as my homepage, so I can stay up to date on info-sec news.
+
 | Links | Descriptions |
 | ------------- |:-------------:|
 | [The Hacker News](https://thehackernews.com/) | All purpose cyber security news source. Does a good job of presenting information at a higher level, but often links to more in-depth sources. |
@@ -11,6 +12,7 @@ Websites to check out occasionally for news or tutorials. I personally have The 
 
 ## Podcasts:
 I love to listen to podcasts on long drives, while working on more repetitive tasks, and for general background noise. Here are some great security focused podcasts!
+
 | Links | Descriptions |
 | ------------- |:-------------:|
 | [Defensive Security Podcast](http://defensivesecurity.org/) | Recent security news from a defensive perspective. |
@@ -22,6 +24,7 @@ I love to listen to podcasts on long drives, while working on more repetitive ta
 
 ## Twitter Accounts:
 As someone who stalks Twitter often one of the ways I have found most effective for staying up to date on whats happening in the world of security is by following as many info-sec accounts on Twitter as possible. There is a large community of info-sec enthusiasts and professionals on Twitter, but here are some of my favoites. I guess I should note that many of these accounts don't strictly tweet about cyber security, as many of them are personal accounts. If you don't like them or the oppinions they have ~you don't have to follow them~.
+
 | Links | Descriptions from Accounts |
 | ----- |:------------:|
 | [@Viss](https://twitter.com/Viss) | "Dark Wizard :: Aspiring Bond Villain :: Merovingian :: Espionage :: Red Teaming :: Security Research :: Shodan Safari Tour Guide :: Founder, Phobos Group" |
