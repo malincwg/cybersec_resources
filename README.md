@@ -28,7 +28,10 @@ A curated list of cyber security resources that I find useful and/or entertainin
 | ----- |:------------:|
 | [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w) | *One of my personal favorites*. Tutorials on many different subjects. Videos tend to be accessible to people of all skill levels, and fun to watch! |
 | [JackkTutorials](https://www.youtube.com/channel/UC64x_rKHxY113KMWmprLBPA) | Videos that cover many subjects in computing, but tends to focus on security. Great tutorials here for anyone interested in fun security projects. |
-| [GynvaelEN](https://www.youtube.com/user/GynvaelEN/about) | Wasn't sure whether to put this under Toutube or Podcasts, but this channel posts great podcasts covering CTFs they have participated in. Very talented hacker, and a great way to learn a thing or two. |
+| [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg) | Wasn't sure whether to put this under Toutube or Podcasts, but this channel posts great podcasts covering CTFs they have participated in. Very talented hacker, and a great way to learn a thing or two. |
+| [Computerphile](https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA) | "Videos all about computers and computer stuff. Sister channel of Numberphile." Videos tend to focus on computer science as a whole, but there is lots of good security stuff here! |
+| [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw) | The official DEFCON youtube channel, posts talks recorded from the yearly DEFCON conference held in Vagas. Talks cover a wide variety of topics and there is something here for everyone! It's far to easy for me to fall down a YouTube hole on this channel and end up binging hours of DEFCON talks. |
+| [Crazy Danish Hacker](https://www.youtube.com/channel/UClg0eyJTbAZaYuz3mhwfBBQ) | Another hacking tutorial channel. They do a great job of covering things at a low level, but makes it very easy to understand. I have also found that a lot of their videos cover topics that are sometimes harder to find comprehensive tutorials on.|
 
 ## Journals:
 | Links | Descriptions |
