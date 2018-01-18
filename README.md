@@ -1,14 +1,16 @@
 # Cyber Security Resources
 
-A curated list of cyber security resources that I find useful and/or entertaining. Includes: websites, podcasts, Twitter accounts, and much more! This list will be updated (hopefully) often. Feel free to contribute to it!
+A curated list of cyber security resources that I find useful and/or entertaining. Includes: websites, podcasts, Twitter accounts, and much more! This list will be updated (hopefully) often. Feel free to contribute to it, or let me know if you think something is incorrect!
 
 ## Websites:
+Websites to check out occasionally for news or tutorials. I personally have The Hacker News as my homepage, so I can stay up to date on info-sec news.
 | Links | Descriptions |
 | ------------- |:-------------:|
 | [The Hacker News](https://thehackernews.com/) | All purpose cyber security news source. Does a good job of presenting information at a higher level, but often links to more in-depth sources. |
 | [HAK5](https://www.hak5.org/) | The makers of HAK5 pentesting gear (usb ducky, wifi pineapple, etc.). Has a **TON** of great resources including news, demos, and of course gear in their shop. |
 
 ## Podcasts:
+I love to listen to podcasts on long drives, while working on more repetitive tasks, and for general background noise. Here are some great security focused podcasts!
 | Links | Descriptions |
 | ------------- |:-------------:|
 | [Defensive Security Podcast](http://defensivesecurity.org/) | Recent security news from a defensive perspective. |
@@ -19,8 +21,17 @@ A curated list of cyber security resources that I find useful and/or entertainin
 | [Open Source Security Podcast](http://www.opensourcesecuritypodcast.com/) | "A podcast about security with an open source slant." |
 
 ## Twitter Accounts:
-| Links | Descriptions |
+As someone who stalks Twitter often one of the ways I have found most effective for staying up to date on whats happening in the world of security is by following as many info-sec accounts on Twitter as possible. There is a large community of info-sec enthusiasts and professionals on Twitter, but here are some of my favoites. I guess I should note that many of these accounts don't strictly tweet about cyber security, as many of them are personal accounts. If you don't like them or the oppinions they have ~you don't have to follow them~.
+| Links | Descriptions from Accounts |
 | ----- |:------------:|
+| [@Viss](https://twitter.com/Viss) | "Dark Wizard :: Aspiring Bond Villain :: Merovingian :: Espionage :: Red Teaming :: Security Research :: Shodan Safari Tour Guide :: Founder, Phobos Group" |
+| [@hackaday](https://twitter.com/hackaday) | "Fresh hacks every day -- Collaborative project hosting built for hackers by hackers" |
+| [@SwiftOnSecurity](https://twitter.com/SwiftOnSecurity) | "I make stupid jokes, talk systems security, https://DecentSecurity.com  + http://GotPhish.com , write Scifi, sysadmin, & use Oxford commas." |
+| [@mainframed767](https://twitter.com/mainframed767) | "Mainframe hacker, OSCP, consultant, and international speaker. Can you jam with the console cowboys in cyberspace? All entries are my own and not my employers" |
+| [@da_667](https://twitter.com/da_667) | "NSM enthusiast. Amateur malware analyst. SOC analyst for a company that splunks all the things. I wrote a book once." |
+| [@malwareunicorn](https://twitter.com/malwareunicorn) | "Malware Research Unicorn @EndgameInc. Interested in Malware, Reverse Engineering, and Fashion. DEF CON. My thoughts are my own. @VanitySec Creator" |
+| [@ra6bit](https://twitter.com/ra6bit) | "Quasi-pseudonymous lagomorphic information security something or other. I make stuff, I break stuff, I defend stuff, I'm in ur DC stealin' ur admins." |
+| [@cryptoishard](https://twitter.com/cryptoishard) | "OSINT|Android|Hardware|Cryptography|Forensics|Virtualization|GameDev cryptographyishard(@)protonmail.ch cryptoishard(@)tuta.io ∧·∪ #YOLOSEC" |
 
 
 ## YouTube Channels:
