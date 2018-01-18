@@ -19,6 +19,9 @@ A curated list of cyber security resources that I find useful and/or entertainin
 | [Open Source Security Podcast](http://www.opensourcesecuritypodcast.com/) | "A podcast about security with an open source slant." |
 
 ## Twitter Accounts:
+| Links | Descriptions |
+| ----- |:------------:|
+
 
 ## YouTube Channels:
 | Links | Descriptions |
