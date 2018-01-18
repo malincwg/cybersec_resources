@@ -16,6 +16,7 @@ A curated list of cyber security resources that I find useful and/or entertainin
 | [Vince in the Bay Podcast](https://www.stitcher.com/podcast/vince-in-the-bay-podcast) | Not strictly a cyber security podcast, more of a general technology and "internet culture" podcast, but often tends to cover info-sec subjects in episodes. |
 | [Brakeing Down Security Podcast](http://brakeingsecurity.com/) | *One of my favorites*, covers topics in security, privacy, and much more! Tends to offer a more in-depth view of topics, but still accessible to less experienced audiences. |
 | [Risky Business Podcast](https://risky.biz/netcasts/risky-business/) | A weekly podcast featuring news and interviews with people in the industry. A self proclaimed "must-listen digest for information security pros". |
+| [Open Source Security Podcast](http://www.opensourcesecuritypodcast.com/) | "A podcast about security with an open source slant." |
 
 ## Twitter Accounts:
 
