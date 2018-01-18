@@ -23,7 +23,7 @@ I love to listen to podcasts on long drives, while working on more repetitive ta
 | [Open Source Security Podcast](http://www.opensourcesecuritypodcast.com/) | "A podcast about security with an open source slant." |
 
 ## Twitter Accounts:
-As someone who stalks Twitter often one of the ways I have found most effective for staying up to date on whats happening in the world of security is by following as many info-sec accounts on Twitter as possible. There is a large community of info-sec enthusiasts and professionals on Twitter, but here are some of my favoites. I guess I should note that many of these accounts don't strictly tweet about cyber security, as many of them are personal accounts. If you don't like them or the oppinions they have ~you don't have to follow them~.
+As someone who stalks Twitter often one of the ways I have found most effective for staying up to date on whats happening in the world of security is by following as many info-sec accounts on Twitter as possible. There is a large community of info-sec enthusiasts and professionals on Twitter, but here are some of my favoites. I guess I should note that many of these accounts don't strictly tweet about cyber security, as many of them are personal accounts. If you don't like them or the oppinions they have /~you don't have to follow them/~.
 
 | Links | Descriptions from Accounts |
 | ----- |:------------:|
